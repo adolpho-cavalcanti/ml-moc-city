@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "slug": "adolpho",
+      "nome": "Adolpho",
+      "imagem": "/times/dolph.jpg",
+      "nacionalidade": {
+        "nome": "Brasil",
+        "bandeira": "/bandeiras/brasil.png"
+      },
+      "titulos": [
+        {
+          "id": 1,
+          "nome": "Copa do Mundo",
+          "imagem": "/trofeus/copa-do-mundo.png",
+          "peso": 50,
+          "qtdTitulos": 1
+        },
+        {
+          "id": 2,
+          "nome": "Champions League",
+          "imagem": "/trofeus/champions.png",
+          "peso": 30,
+          "qtdTitulos": 1
+        },
+        {
+          "id": 3,
+          "nome": "Premier League",
+          "imagem": "/trofeus/premier-league.png",
+          "peso": 20,
+          "qtdTitulos": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "nil",
+      "nome": "Nil",
+      "imagem": "/times/nil.jpg",
+      "nacionalidade": {
+        "nome": "Brasil",
+        "bandeira": "/bandeiras/brasil.png"
+      },
+      "titulos": [
+        {
+          "id": 1,
+          "nome": "Champions League",
+          "imagem": "/trofeus/champions.png",
+          "peso": 30,
+          "qtdTitulos": 1
+        },
+        {
+          "id": 2,
+          "nome": "Copa da Liga",
+          "imagem": "/trofeus/fa-cup.png",
+          "peso": 15,
+          "qtdTitulos": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "dimitrius",
+      "nome": "Dimi",
+      "imagem": "/times/dimi.jpg",
+      "nacionalidade": {
+        "nome": "Brasil",
+        "bandeira": "/bandeiras/brasil.png"
+      },
+      "titulos": [
+        {
+          "id": 1,
+          "nome": "Premier League",
+          "imagem": "/trofeus/premier-league.png",
+          "peso": 20,
+          "qtdTitulos": 1
+        },
+        {
+          "id": 2,
+          "nome": "Copa da Liga",
+          "imagem": "/trofeus/fa-cup.png",
+          "peso": 15,
+          "qtdTitulos": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "jijio",
+      "nome": "Jijio",
+      "imagem": "/times/jijio.jpg",
+      "nacionalidade": {
+        "nome": "Brasil",
+        "bandeira": "/bandeiras/brasil.png"
+      },
+      "titulos": [
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "bau",
+      "nome": "Bau",
+      "imagem": "/times/bau.jpg",
+      "nacionalidade": {
+        "nome": "Brasil",
+        "bandeira": "/bandeiras/brasil.png"
+      },
+      "titulos": [
+      ]
+    }
+  ]
+  
