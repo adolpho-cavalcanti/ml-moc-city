@@ -67,7 +67,7 @@ async function getTeamBySlug(slug: string): Promise<Team | undefined> {
           "nome": "Copa da Liga",
           "imagem": "/trofeus/fa-cup.png",
           "peso": 15,
-          "qtdTitulos": 1
+          "qtdTitulos": 2
         }
       ]
     },
